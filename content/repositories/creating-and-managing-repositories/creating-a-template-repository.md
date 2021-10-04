@@ -28,3 +28,4 @@ After you make your repository a template, anyone with access to the repository 
 {% data reusables.repositories.sidebar-settings %}
 1. Select **Template repository**.
   ![Checkbox to make a repository a template](/assets/images/help/repository/template-repository-checkbox.png)
+ 
